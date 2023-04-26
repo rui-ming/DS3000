@@ -6,7 +6,7 @@ My final project consisted of analyzing a dataset containing information regardi
 or early career employees and could directly influence when and where students decide to focus their career paths. 
 | s | Rotten Tomatoes | Amazon | Reddit | 
 | --- | --- | --- | 
-| Training Error | 0.2536043829296425 | - | 0.2894728011 |
-| Test Error | 0.36764705882352944 | - | 0.49449664429 | 
-| F1 Score | 0.4904695785992418 | - | 0.4904695785992418 |
+| Training Error | 0.2536043829296425 | x | 0.2894728011 |
+| Test Error | 0.36764705882352944 | x | 0.49449664429 | 
+| F1 Score | 0.4904695785992418 | x | 0.4904695785992418 |
 
